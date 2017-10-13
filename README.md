@@ -14,4 +14,4 @@ This is a README file, which can use Markdown syntax. This file's purpose is to 
 
 ***This is bold/italic*** 
 
-For more information, please go [here](https://google.com).
+For more information, please go [here](https://google.com)
